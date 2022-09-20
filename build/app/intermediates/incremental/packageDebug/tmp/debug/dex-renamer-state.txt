@@ -1,0 +1,4 @@
+#Tue Sep 20 20:45:40 TRT 2022
+base.0=/home/hellstabber/AndroidStudioProjects/we_are_metallica/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
