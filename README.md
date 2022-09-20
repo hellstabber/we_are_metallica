@@ -1,6 +1,6 @@
 # We Are Metallica
 
-This is a simple Flutter project I made while learning Angela Yu's Flutter course
+This is a simple Flutter project I made while learning Angela Yu's Flutter course 🫰
 
 
 ## Getting Started
